@@ -5,7 +5,7 @@ i'm from Algeria, i'm a Full-stack developer in progress — currently learning 
 </h3>
 
 <p align="center">
-I’m at the stage where every concept turns into a small experiment — there is always things to learn - at first debbuging consumes me...then obsesses me...finally satisfies me 😆.
+I’m at the stage where every concept turns into a small experiment — there is always things to learn — at first debbuging consumes me...then obsesses me...finally satisfies me 😆.
 </p>
 
 ---
@@ -27,17 +27,6 @@ I’m at the stage where every concept turns into a small experiment — there i
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwaben16&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaben16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
----
 
 ### ✨ What’s next
 
